@@ -1,3 +1,8 @@
+body,html {
+    margin: 0%;
+    padding: 0%;
+    scroll-behavior: smooth;
+}
 h1{
  color: pink;
 }
@@ -77,6 +82,15 @@ h1{
     padding-top: 20px;
     justify-content: space-between;
   
+}
+#services{
+background-image: url("./images/image7.jpg");
+height: 40vh;
+background-repeat: no-repeat;
+
+}
+#Contact {
+    padding: 0%;
 }
 
 
